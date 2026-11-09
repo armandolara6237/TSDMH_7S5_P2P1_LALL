@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_P2_Prac1_LALL</string>
+    <string name="p1titulo">Manejo de componentes views</string>
+    <string name="p1btn_1">Primer boton</string>
+    <string name="p1btn_2">Segundo boton</string>
+    <string-array name="estados">
+        <item>Chihuahua</item>
+        <item>Estado de mexico</item>
+        <item>Ciudad de mexico</item>
+        <item>Oaxaca</item>
+        <item>Puebla</item>
+    </string-array>
+</resources>
